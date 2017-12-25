@@ -1,0 +1,137 @@
+[
+    {
+        "ident": "THY1971",
+        "airCraft": "A333",
+        "duration": "04:05:00",
+        "departure_epoch": 1513771200,
+        "arrival_epoch": 1513785900,
+        "departure": "20/12/2017 03:00PM Wednesday",
+        "arrival": "20/12/2017 04:05PM Wednesday"
+    },
+    {
+        "ident": "THY1985",
+        "airCraft": "B77W",
+        "duration": "03:55:00",
+        "departure_epoch": 1513766400,
+        "arrival_epoch": 1513780500,
+        "departure": "20/12/2017 01:40PM Wednesday",
+        "arrival": "20/12/2017 02:35PM Wednesday"
+    },
+    {
+        "ident": "BAW675",
+        "airCraft": "A320",
+        "duration": "04:10:00",
+        "departure_epoch": 1513753200,
+        "arrival_epoch": 1513768200,
+        "departure": "20/12/2017 10:00AM Wednesday",
+        "arrival": "20/12/2017 11:10AM Wednesday"
+    },
+    {
+        "ident": "THY1979",
+        "airCraft": "B77W",
+        "duration": "03:00:00",
+        "departure_epoch": 1513752000,
+        "arrival_epoch": 1513762800,
+        "departure": "20/12/2017 09:40AM Wednesday",
+        "arrival": "20/12/2017 09:40AM Wednesday"
+    },
+    {
+        "ident": "THY1987",
+        "airCraft": "A321",
+        "duration": "03:55:00",
+        "departure_epoch": 1513707000,
+        "arrival_epoch": 1513721100,
+        "departure": "19/12/2017 09:10PM Tuesday",
+        "arrival": "19/12/2017 10:05PM Tuesday"
+    },
+    {
+        "ident": "THY1983",
+        "airCraft": "A321",
+        "duration": "04:00:00",
+        "departure_epoch": 1513702200,
+        "arrival_epoch": 1513716600,
+        "departure": "19/12/2017 07:50PM Tuesday",
+        "arrival": "19/12/2017 08:50PM Tuesday"
+    },
+    {
+        "ident": "BAW677",
+        "airCraft": "A320",
+        "duration": "04:11:00",
+        "departure_epoch": 1513694400,
+        "arrival_epoch": 1513709460,
+        "departure": "19/12/2017 05:40PM Tuesday",
+        "arrival": "19/12/2017 06:51PM Tuesday"
+    },
+    {
+        "ident": "THY1971",
+        "airCraft": "A333",
+        "duration": "03:48:00",
+        "departure_epoch": 1513684800,
+        "arrival_epoch": 1513698480,
+        "departure": "19/12/2017 03:00PM Tuesday",
+        "arrival": "19/12/2017 03:48PM Tuesday"
+    },
+    {
+        "ident": "THY1985",
+        "airCraft": "B77W",
+        "duration": "03:45:54",
+        "departure_epoch": 1513680000,
+        "arrival_epoch": 1513693554,
+        "departure": "19/12/2017 01:40PM Tuesday",
+        "arrival": "19/12/2017 02:25PM Tuesday"
+    },
+    {
+        "ident": "BAW675",
+        "airCraft": "A320",
+        "duration": "05:29:34",
+        "departure_epoch": 1513666800,
+        "arrival_epoch": 1513686574,
+        "departure": "19/12/2017 10:00AM Tuesday",
+        "arrival": "19/12/2017 12:29PM Tuesday"
+    },
+    {
+        "ident": "THY1979",
+        "airCraft": "B77W",
+        "duration": "07:14:47",
+        "departure_epoch": 1513662000,
+        "arrival_epoch": 1513688087,
+        "departure": "19/12/2017 08:40AM Tuesday",
+        "arrival": "19/12/2017 12:54PM Tuesday"
+    },
+    {
+        "ident": "THY1987",
+        "airCraft": "A321",
+        "duration": "03:52:16",
+        "departure_epoch": 1513620600,
+        "arrival_epoch": 1513634536,
+        "departure": "18/12/2017 09:10PM Monday",
+        "arrival": "18/12/2017 10:02PM Monday"
+    },
+    {
+        "ident": "THY1983",
+        "airCraft": "A320",
+        "duration": "03:52:30",
+        "departure_epoch": 1513615800,
+        "arrival_epoch": 1513629750,
+        "departure": "18/12/2017 07:50PM Monday",
+        "arrival": "18/12/2017 08:42PM Monday"
+    },
+    {
+        "ident": "BAW677",
+        "airCraft": "A320",
+        "duration": "03:59:00",
+        "departure_epoch": 1513608000,
+        "arrival_epoch": 1513622340,
+        "departure": "18/12/2017 05:40PM Monday",
+        "arrival": "18/12/2017 06:39PM Monday"
+    },
+    {
+        "ident": "THY1971",
+        "airCraft": "A333",
+        "duration": "04:04:16",
+        "departure_epoch": 1513598400,
+        "arrival_epoch": 1513613056,
+        "departure": "18/12/2017 03:00PM Monday",
+        "arrival": "18/12/2017 04:04PM Monday"
+    }
+]
