@@ -15,11 +15,6 @@
 //     });
 // };
 
-// /**
-//  * 获取缓存
-//  * @param key 缓存key
-//  * @param callback 回调函数
-//  */
 // exports.getItem = function (key, callback) {
 //     if (!redisActive) {
 //         return callback(null, null);
@@ -32,11 +27,6 @@
 //     });
 // };
 
-// /**
-//  * 移除缓存
-//  * @param key 缓存key
-//  * @param callback 回调函数
-//  */
 // exports.removeItem = function (key, callback) {
 //     if (!redisActive) {
 //         return callback(null);
